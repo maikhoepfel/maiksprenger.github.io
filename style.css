@@ -13,10 +13,6 @@ body{
     color: #EEE;
 }
 
-h1{
-    color: #EDD;
-}
-
 #wrapper{
     margin: 0 auto;
     width:920px;
@@ -32,6 +28,7 @@ h1{
 }
 
 h1{
+    color: #EDD;
     font-size: 90px;
     position:relative;
     top: 30px;
