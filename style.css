@@ -1,16 +1,14 @@
 body{
-    background-color:#222;
-    font-family: 'Raleway', serif;
-    font-size: 42px;
+    background-color: #F5F5F5;
+    font-family: 'Droid Serif', serif;
+    font-size: 24px;
     font-style: normal;
     font-weight: 400;
     text-shadow: none;
     text-decoration: none;
     text-transform: none;
-    letter-spacing: 0em;
-    word-spacing: 0em;
-    line-height: 1.2;
-    color: #EEE;
+    line-height: 1.5;
+    color: #333;
 }
 
 #wrapper{
@@ -28,13 +26,11 @@ body{
 }
 
 h1{
-    color: #EDD;
     font-size: 90px;
     position:relative;
     top: 30px;
     padding: 20px 0 20px 0.4em;
     margin: 20px 0 20px 0;
-    text-shadow: 3px 3px 2px #000;
 }
 
 #profile{
@@ -43,20 +39,26 @@ h1{
 }
 
 #content{
+    background: white;
     margin: 1px 8px;
-    padding: 10px 16px 0 16px;
-    background: #111;
     border-radius: 8px;
     -moz-border-radius: 8px;
+    padding: 2em;
+
+    box-shadow: 0 0 2em rgba(0,0,0,0.03)
 }
 
 #content p{
-    position:relative;
+    position: relative;
     top:-20px;
 }
 #profile {
     float: right;
     padding-right: 30px;
+}
+
+#footer {
+    margin-top: 2em;
 }
 
 a img{
@@ -71,23 +73,11 @@ img {
 }
 
 
-a.a1:hover{
-    color:#ee8;
-}
-
-a.a2:hover{
-    color:#8ee;
-}
-
-a.a3:hover{
-    color:#e49;
+a {
+    color: #4086C7;
 }
 
 a, a:visited{
-    color:#ee8;
     text-decoration:none;
 }
 
-a:hover{
-    color:white;
-}
