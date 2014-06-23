@@ -39,7 +39,7 @@ h1{
 
 #profile{
     position:relative;
-    top:-30px;
+    top:-55px;
 }
 
 #content{
@@ -61,6 +61,13 @@ h1{
 
 a img{
     border: none;
+}
+
+img {
+    transform:rotate(3deg);
+    -ms-transform:rotate(3deg);
+    -webkit-transform:rotate(3deg);
+    height: 250px;
 }
 
 
