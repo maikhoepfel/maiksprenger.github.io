@@ -1,0 +1,101 @@
+<00 twttor 2006 slide>
+
+This might not be a popular opinion, and this talk isn't about this, but I think Django's days of glory are over. I have no doubts that in the near future, we will not be building traditional websites, we will be building Javascript applications for the web. And that's a shame really. I really like Python and Django, and I don't like Javascript all that much. But maybe there's a Pythonic way forward!
+
+<10 maik slide >
+
+Hi, I'm Maik -- and this is "Building websites like it's 2006" 2006 was the year of the dog, so this talk is mostly pictures of dogs.
+
+I've been involved with Django in one way or another for five years now. I'm an django-oscar core contributor; if you're looking for a Python ecommerce solution, look no more! And at the moment I'm helping Aymeric Augustin at Oscaro sell car parts. They're using Oscar, but that's a non-issue, so they gave me frontend work.
+
+<20 frontend slide>
+
+<30  Oscaro screen > 
+
+So, Oscaro... pretty traditional Django application. But, it's 2015, and we want to suggest results on the search bar, and the number of items in the basket to update without a page reload. And you do a bit of jQuery, and realize it's messy, and you end up in callback hell. So you're like, okay, let's try one of those fancy JS applications. And you build an Angular app, and you put it on every page, and all is good. Then you build another angular app, and realize that suddenly your jQuery code can't change URLs anymore. There's a ticket for that, there's nasty workarounds, but really: Angular wants to control your page. Furthermore, you realize that your new Python developers are taking forever to grok all the concepts. 
+
+<40 angular terms.png>
+
+Then Google announces that Angular 2 will not have a migration path for Angular 1 apps, and then your boss is angry.
+
+<50 angry boss slide>
+
+So we got some free time to evaluate options. OH HAI Hackernews.
+
+<60 hackernews react.png >
+
+I'm not saying there's anthing with Angular, or ember. But if you're coming a Django background, and are looking to progressively enhance a Django site, I do think there's a much better option: Facebook's React.
+
+- narrow scope:  It's not so much a full stack JS framework; it's only used for building UI. For our use case, that's 90% of what we needed JS for anyway.
+
+<70 dog vs python >
+
+- quite pythonic. simple, in the positive way. data flow usually one way, and explicit. 
+- forces you to do the right thing. readable. DOM pushed into one corner, DOM into the other.
+- cross browser: abstracts away the fiddly bits we don't like as backend developers. html elements, synthetic events. IE8.
+
+- low learning curve, few concepts to learn... means you  move fast.
+
+<80 fast dog >
+ Half a day with meta average JS building a cool autocomplete.
+
+speaking of going fast. react does server side rendering. the fully rendered components gets passed in the initial HTML, and the client side react library loads, realizes it's got nothing to do, and we're ready to roll. it's a bit like this:
+
+<90 dog twin >
+- It also makes your SEO person happy. And I think there is django-react and it does exactly that for us.
+
+- future-proof: can still build SPJSA. 
+
+< instagram slide>
+In actual use by Facebook and Yahoo Mail, instead of Angular disaster.
+
+- Good for Djangonauts. Conceptually, passing context into a template, and reasoning about state in a component, aren't much different. This brings me to the title of my talk... you can think about React components like you do about page loads. Every action changes some state, and then the page is fully rendered again. It's that simple.
+
+-- short questions? --
+
+Let's dive into that:
+
+http://jsfiddle.net/k44rnmn9/5/
+
+Talk about:
+- JSX
+- components. then start explaining code from the top.
+- props & state
+- virtualdom: events
+
+
+-- short questions? --
+
+Finalise:
+- fast (virtual dom stuff) -- javascript fast, DOM is slow
+- dealing with real javascript objects
+- DOM pushed into one corner
+- dumb components, easy to test
+
+Downfalls:
+- doesn't do everything? Need i18n, data sync, ... 
+- quite hefty payload. but... microlibraries instead of jquery.
+- integration with i.e. jQuery plugins is possible, but non-trivial and leaky abstraction. Has no collection of similar plugins. 
+- flux: in a state of flux. no standard way to do it.
+
+
+One last thing:
+- React chrome tools
+- django-mediacat
+
+
+DjangoCon only:
+- Go see David's talk, he's a much better speaker than me.
+
+----
+
+Feedback:
+- show how to integrate django with react
+- Einzelne slides für die react components statt Fiddle
+
+- Instagram waren Django-leute... da vielleicht mehr?
+- Be more excited about react!
+
+Example components:
+Autocomplete, vehicle selector. DRF, apiAdapter, individual components, where is state and props.
+SPJA: django-mediacat
