@@ -1,0 +1,80 @@
+HELLO
+
+Hi, I'm Maik. Thank you so much for having me here; it's my first time in Africa and I'm loving it!
+
+So, I have been self-employed for over five years, I much prefer it over employment, and somebody in the committee thought it might be useful for me to talk about self-employment. So while I have to admit I know almost nothing about how things work here, I'll try to give you some insight into what it's like from my point of view, and hopefully you will still find one or two things useful.
+
+MAIK'S STORY
+
+I really stumbled both into Python, Django and freelancing. We had this seminar (7 years ago!) where we the task was to build a small website using one of those new web frameworks, and I was assigned Python and Django. I thought it was cool, so I put it on my online profile. And suddenly I started getting asked to do Django projects.
+Seven years later, I can proudly say that, on average, I never worked more than two days a week for money. I travelled the world, had a stab at setting up my own business, but most importantly, had time for things I think are more important than work.
+
+I'm probably at the far end of work-life balance, and quite happy to take risks. But while I'm aware I'm very privileged in where and how I grew up, I do think some of those successes weren't just me being lucky, and can be repeated. So, let's dive in.
+
+IS SELF-EMPLOYMENT FOR ME
+
+It's easy to impress at a party with crazy travels, high day rates and a lot of freedom. But freelancing also means high stress levels, less predictability in your income and workload. Going on holiday, easy to fall into a trap of working too much.
+
+talk about downsides. i was lucky and always had jobs, but there will be times where you don't. and it's not something you can force; you can get the word out etc., but at the end of the day, you're always dependent on others. all projects seem doomed, scary...
+
+Many hats: project manager, a consultant, networking, accounting, marketing, but understand that! to me that's fun, don't want to do just computers.
+
+freelancer: scared by not having a gig, need steady income (buffer)? maybe not. enjoying it, taking advantage and having trust you'll get something else: maybe.
+there's a taste of freedom. you negotiate what you're worth, over and over again. you're on equal level in negotiations. they need you as much as you need them.
+
+easier to negotiate remote work, part time work. with freelancers, people always expect that you'll have other customers. 
+
+How does this apply to you? Remote, part-time work sound appealing? Or want to put down a loan for a house? and what I'm mentioning are just generalizations, there's flexible employment arrangements, and annoying contracts.
+
+FINDING JOBS
+
+So, keep doing what you're doing, maybe reduce employment to three or four days a week, and picking up some small consulting gigs in the evening and off day. Just ask around in your network of people, or write to local companies. Meetups are also a great way.
+
+Open source helps. People don't question your dev skills, and are quicker to give you work without having ever met them. 
+
+I don't know if things like elance/odesk work. On one hand, you can build a really nice profile, with reviews, etc. On the other hand, you're competing on price with everyone in the world. So, my recommendation would be to try everything else first.
+
+- my main ways to find work? twitter, open-source, and the "I happen to be there/I like what you're doing" and then book flight trick. Instead of making this an interview process with lots of red tape from HR, you give them an opportunity to leave the office and talk about things they like.
+
+KEEPING JOBS
+
+- Understand why you were hired. Getting somebody to do the work in house should be cheaper. Are they just fully booked? Does marketing have budget, and processes are so messed up that they'd rather spend it on you then try to work with their on-site IT?
+I once got a job working for the marketing dept of a large SEO analytics firm, mainly tech people. Marketing always felt inferior, but had a healthy budget, so they started hiring me (and other) outsiders because they didn't want to be belittled by their in-house IT team. As long as you understand this dynamic, and make sure to do everything but belittle them, your job is as safe as it gets. 
+
+The same place, I was working with the head of marketing, and he was a pretty normal guy. His colleagues all were very health conscious, tall thin ladies. When asking where to go for lunch, he suggested Currywurst, because he likes it and nobody else goes with him. And I swear, I only got renewed over and over again, because each time I came into the office, I made sure to meet just before lunch time, and made it perfectly clear that we're going for currywurst again!
+
+- make it fun to work with you. you're allowed to be different, send holiday pics, come in late, whatever. in general, a lot of people will be slightly bored by their work. If you have a feeling they are, give them a little break by suggesting to meet in a cafe nearby, (giving them an easy reason to perk up their day).
+
+Be honest. Tell companies when you're struggling, when you're sick, when you're distracted. That sort of stuff builds trust. They're giving you their money, they want the feeling that it's well spent.
+
+If there's no deadline, it's okay to call work on the morning and say you accidentally stayed up all night partying. And as long as you can provide a good story and it doesn't happen to often, this might actually improve your standing. 
+
+WAGE NEGOTIATION
+
+- Many people don't like doing this. But by far the easiest way to earn more money or work less is to ask for it! So, get good at it and understand how businesses think. 
+
+- what seems a lot to you is pennies to them. understand few people you'll deal with are spending their own money. and while an extra 1000 bucks might seem a lot to you, but e.g. the ymight need to fill a budget and actually prefer you spend more. 
+
+- find out if there's competition. a lot of times, you come in through a recommendation, or because you're on of the few... 
+
+- realize that each time spent for you is an investment on their side. if they invited you to talk about the project and make an offer and three people spent 3 hours, realize they'd rather go for the offer even it's a few hundred bucks about their budget, than having to go through the process again, which would cost them more.
+
+- most important: try to understand the value you're adding, and bill for that. "How many hours does it take you to do x"? that catalogue PDF export is pretty easy to program, but it will save the head of marketing hours? And she's the one to decide about budget? perfect. don't bill in hours or days spent; that's never going to motivate you to become more efficient. 
+
+- Writing offers still feels obscene to me. It still seems a silly amount of money. Nonetheless, it's often helpful to have figures; I'm happy to disclose mine in private.
+
+REMOTE
+
+Remote work is the second level up. Don't do it at the same time. 
+- enough social interaction. It's nice to have colleagues!
+- find ways to keep motivated
+- regular schedule and shared office help
+
+But when done right, nobody is stopping you from travelling the world, as long as you find wifi.
+
+- When in doubt, err on the side of saying too much. Communicate really explicitly. communicate when I've lost concentration and am going home, when I'm not feeling well, etc. Those things are perfectly normal; nobody is 100% all the time. But put yourself in the shoes of your boss. They want to trust you, they like you. But s/he has a lot less control, and each time you don't respond to a chat message in a timely manner leaves a bitter feeling. 
+- Become friends with an onsite person. You need somebody who can put a mood into writing. Were the new quarterly earnings well below expectations, everybody will be sour and feeling stressed. Nobody might tell you because it "doesn't affect your work", but otherwise you'll be questioning why priorities suddenly change, etc.
+
+CLOSING THOUGHTS
+
+take everything with a grain of salt. what worked for me won't necessarily work for you. and most importantly, keep having fun. keep trying new things, do what you like. doesn't really matter where you end up, as long as you enjoy the ride.
